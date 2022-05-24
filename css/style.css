@@ -1,0 +1,14 @@
+body{
+    font-size: 2.5rem;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    color:rgb(32, 96, 126);
+    background: rgb(151,100,184);
+background: linear-gradient(146deg, rgb(241, 227, 182) 36%, rgba(0,114,181,1) 100%);
+margin-top: -8px;
+padding: 0;
+}
